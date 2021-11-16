@@ -16,8 +16,16 @@ body {
 #contact {
   z-index: 1000;
 }
+.navbar-expand-lg{
+  background-color: white !important;
 
+}
+.caption{
 
+text-transform: uppercase;
+margin-top: -30%;
+
+}
 
 /*============= FOOTER =============*/
 
