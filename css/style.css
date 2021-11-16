@@ -22,9 +22,16 @@ body {
 }
 .caption{
 
-text-transform: uppercase;
-margin-top: -30%;
+top: 50px;
+left: 50%;
+position: absolute;
+display: inline-block;
+text-align: center;
 
+}
+.contenu{
+  position: relative;
+  width: 100%;
 }
 
 /*============= FOOTER =============*/
